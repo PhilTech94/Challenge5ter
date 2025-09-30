@@ -1,5 +1,5 @@
 # Challenge5ter
 
-Je vais créer un conflit. 
+LOCAL
 
 Je fais un test.
